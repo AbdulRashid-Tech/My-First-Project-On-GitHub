@@ -110,6 +110,7 @@ nav {
 }
 .item small {
   font-size: 12px;
+  display: small;
 }
 
 @media screen and (max-width: 310px) {
